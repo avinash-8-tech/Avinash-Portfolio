@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background: #fafafa;
+}
+::-webkit-scrollbar-thumb{
+    background: #ccc;
+    border-radius: 5px;
+}
