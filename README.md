@@ -1,12 +1,22 @@
-# React + Vite
+<h1 align="center">Avinash Portfolio</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! Here, you can explore the projects and skills I've worked on, along with a glimpse of my journey as a developer. This portfolio reflects my creative and technical abilities.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view my live portfolio at:  
+[https://avinash-portfolio-nu.vercel.app](https://avinash-portfolio-nu.vercel.app)
 
-## Expanding the ESLint configuration
+## 📝 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Clean & Interactive Design**: A personal touch to highlight my work.
+- **Smooth Animations**: Elegant animations to enhance the user experience.
+- **Mobile-Responsive**: Fully optimized for all screen sizes.
+
+## 🤝 Contact
+
+Feel free to reach out for any collaborations or inquiries.
+
+---
+
+Thank you for visiting my portfolio! 🌟
