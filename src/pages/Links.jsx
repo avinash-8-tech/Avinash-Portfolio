@@ -25,7 +25,7 @@ const Links = () => {
       hover: "hover:bg-red-50"
     },
     {
-      href: "https://buymeacoffee.com/avinash_08",
+      href: "https://buymeacoffee.com/avinash08",
       text: "Buy Me A Coffee",
       icon: "fas fa-mug-hot",
       color: "bg-amber-100 text-amber-600",
